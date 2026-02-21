@@ -1,0 +1,28 @@
+# Virtual environments
+venv/
+env/
+.venv/
+**/.venv-new/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Training data (ignore large datasets)
+audio_module/data/
+*.wav
+*.mp3
+
+# Runtime-generated files
+uploads/
+static/visuals/
+data/amberisai.db
+
+# Secrets and environment files
+.env
+*.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini

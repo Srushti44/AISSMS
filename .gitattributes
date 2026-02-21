@@ -1,0 +1,6 @@
+# ensure consistent line endings across platforms
+* text=auto
+
+# force LF for common text files
+*.py text eol=lf
+*.txt text eol=lf
