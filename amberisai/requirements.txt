@@ -14,4 +14,3 @@ soundfile
 scipy
 matplotlib
 requests
-openai
